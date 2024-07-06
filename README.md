@@ -10,6 +10,7 @@ Creating manifest.json is neccessary
 4. Upload dist folder if there is React.js and out folder -> Next.js
 5. Now you can use it as extension
 
+Demo: https://drive.google.com/file/d/1lKsh7PF-B1yW2CgZc9BmJbRJYpdIrqR9/view?usp=sharing
 
 
 Currently, two official plugins are available:
